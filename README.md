@@ -1,2 +1,3 @@
 # Project-Tells-us-a-climate-story-
 Global temperatures are rising, and climate change is knocking on our door. But Terra is here to help!
+Welcome to Terra—a powerful platform where Data meets Technology to shape tomorrow’s climate solutions! We collected data from the U.S. Greenhouse Gas Center to dig deep into historical climate data, uncovering patterns that tell the story of our changing planet. Terra engages with the ongoing human-induced rise in global temperatures resulting in Climate Change. Curious about how our planet’s temperature has shifted over time? Dive into interactive diagram showing temperature fluctuations year by year. With Terra, you’re not just looking at numbers—you’re part of the journey to a greener, more sustainable future!
